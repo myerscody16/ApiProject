@@ -10,8 +10,13 @@ namespace ApiProject.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public async Task<ActionResult> Index()
         {
+            return View();
+        }
+        public async Task<ActionResult<Movie>> SearchResults(string Title, string ReleaseYear, string Rated, string Language, string Runtime, string Genre)
+        {
+
             return View();
         }
     }
