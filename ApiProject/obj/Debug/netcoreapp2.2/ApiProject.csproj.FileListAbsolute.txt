@@ -30,3 +30,36 @@ C:\Users\myers\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiPro
 C:\Users\myers\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.dll
 C:\Users\myers\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.pdb
 C:\Users\myers\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csproj.CopyComplete
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.deps.json
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.runtimeconfig.json
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.runtimeconfig.dev.json
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.dll
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.pdb
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.Views.dll
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.Views.pdb
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csprojAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorAssemblyInfo.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorAssemblyInfo.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.AssemblyInfoInputs.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.AssemblyInfo.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.TagHelpers.input.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.TagHelpers.output.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorCoreGenerate.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SearchResults.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorTargetAssemblyInfo.cs
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.Views.pdb
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.dll
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.pdb
+C:\Users\Grand Circus Student\source\repos\MZ\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csproj.CopyComplete

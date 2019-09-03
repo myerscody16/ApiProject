@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj": {}
+    "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj": {
+    "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj",
         "projectName": "ApiProject",
-        "projectPath": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj",
-        "packagesPath": "C:\\Users\\myers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\obj\\",
+        "projectPath": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "packagesPath": "C:\\Users\\Grand Circus Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\myers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Grand Circus Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
