@@ -5,12 +5,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ApiProject.Models;
+using System.Net.Http;
 
 namespace ApiProject.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public string baseAddress = "http://www.omdbapi.com";
+        //Sending search results as a list of type movie
+        public async Task<IActionResult> Index()
+        {
+            return View();
+        }
+        public async Task<ActionResult<Movie>> SearchResults(string Title, string ReleaseYear, string Rated, string Language, string Runtime, string Genre)
         {
             return View();
         }
