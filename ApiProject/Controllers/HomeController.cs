@@ -18,8 +18,15 @@ namespace ApiProject.Controllers
         }
         public async Task<ActionResult<Movie>> SearchResults(string Title, string ReleaseYear, string Rated, string Language, string Runtime, string Genre)
         {
+            var client = new HttpClient();
 
-            return View();
+            client.BaseAddress = new Uri(baseAddress);
+
+            var response = await client.GetAsync("");//need ignore file for API
+
+            var result = await response.Content.ReadAsAsync<Movie>();
+
+            return View(result);
         }
     }
 }
