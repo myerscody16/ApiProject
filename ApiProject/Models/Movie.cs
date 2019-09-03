@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 namespace ApiProject.Models
 {
-
+    public class Movies
+    {
+        public Movie[] movieArray { get; set; }
+    }
     public class Movie
     {
         public string Title { get; set; }
