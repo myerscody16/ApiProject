@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj": {}
+    "C:\\Users\\zeL\\grandCircus\\labs\\groupAPI\\ApiProject\\ApiProject\\ApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj": {
+    "C:\\Users\\zeL\\grandCircus\\labs\\groupAPI\\ApiProject\\ApiProject\\ApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\zeL\\grandCircus\\labs\\groupAPI\\ApiProject\\ApiProject\\ApiProject.csproj",
         "projectName": "ApiProject",
-        "projectPath": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\ApiProject.csproj",
-        "packagesPath": "C:\\Users\\myers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\myers\\source\\repos\\ApiProject\\ApiProject\\obj\\",
+        "projectPath": "C:\\Users\\zeL\\grandCircus\\labs\\groupAPI\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "packagesPath": "C:\\Users\\zeL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zeL\\grandCircus\\labs\\groupAPI\\ApiProject\\ApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\myers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zeL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
