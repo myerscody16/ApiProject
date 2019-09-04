@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj": {}
+    "C:\\Users\\inbox\\source\\repos\\GroupAPI\\ApiProject\\ApiProject\\ApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj": {
+    "C:\\Users\\inbox\\source\\repos\\GroupAPI\\ApiProject\\ApiProject\\ApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\inbox\\source\\repos\\GroupAPI\\ApiProject\\ApiProject\\ApiProject.csproj",
         "projectName": "ApiProject",
-        "projectPath": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\ApiProject.csproj",
-        "packagesPath": "C:\\Users\\Grand Circus Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grand Circus Student\\source\\repos\\MZ\\ApiProject\\ApiProject\\obj\\",
+        "projectPath": "C:\\Users\\inbox\\source\\repos\\GroupAPI\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inbox\\source\\repos\\GroupAPI\\ApiProject\\ApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Grand Circus Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
