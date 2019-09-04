@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using ApiProject.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using ApiProject.Models;
 
 namespace ApiProject
 {
@@ -35,9 +36,14 @@ namespace ApiProject
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            var connection = "Server=.\\SQLExpress;Database=APIMovieDb;Trusted_Connection=True;ConnectRetryCount=0;";
+
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
+                    Configuration.GetConnectionString("DefaultConnection")))
+                .AddDbContext<APIMovieDbContext>(options => 
+                options.UseSqlServer(
+                    Configuration.GetConnectionString(connection)));
             services.AddDefaultIdentity<IdentityUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
